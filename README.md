@@ -44,7 +44,13 @@
 ## MongoDB Animal Search and Rescue API
 An animal profiling tool used for finding rescue animal candidates.
 
+
+
 <img width=400 height=400 src="./images/logo.png"></img>
+
+<hr/>
+
+<img src="./images/ex_dashboard.png"></img>
 
 
 ## Motivation
